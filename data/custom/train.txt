@@ -1,1 +1,12 @@
-data/custom/images/train.jpg
+data/custom/images/Haz1_box2.jpg
+data/custom/images/Haz2_box2.jpg
+data/custom/images/Haz3_box2.jpg
+data/custom/images/Haz4_box2.jpg
+data/custom/images/Haz5_box2.jpg
+data/custom/images/Inf1_box1.jpg
+data/custom/images/Inf1_box2_45.jpg
+data/custom/images/Inf2_box1_90.jpg
+data/custom/images/Inf2_box2_135.jpg
+data/custom/images/Tox1_box1.jpg
+data/custom/images/Tox1_box2.jpg
+data/custom/images/Tox1_box3.jpg
