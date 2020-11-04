@@ -1,0 +1,13 @@
+FilePath,Label,topleft_x,topleft_y,bottomright_x,bottomright_y
+Haz1_box2.jpg,Hazard,3608,1164,4584,2124
+Haz2_box2.jpg,Hazard,3688,1172,4584,2108
+Haz3_box2.jpg,Hazard,3128,1156,4024,2100
+Haz4_box2.jpg,Hazard,3200,1088,4168,2048
+Haz5_box2.jpg,Hazard,3664,1324,4648,2284
+Inf1_box1.jpg,Infectious,2758,778,3630,1681
+Inf1_box2_45.jpg,Infectious,5789,2174,6503,2871
+Inf2_box1_90.jpg,Infectious,1641,1827,2427,2587
+Inf2_box2_135.jpg,Infectious,4994,2286,5685,2881
+Tox1_box1.jpg,Toxic,3352,1651,4302,2618
+Tox1_box2.jpg,Toxic,3195,1233,4252,2159
+Tox1_box3.jpg,Toxic,3488,711,4415,1617
